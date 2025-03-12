@@ -4,6 +4,7 @@ public class Test_LiteralExample {
             // Data Type - Integer (Int)
             // age - Identifier
             // 25 - Literal (Value assigned to a variable
+            // = - Assignment Operator
 
             System.out.printf("My Age is = %d",age);
         }
