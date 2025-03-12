@@ -48,7 +48,7 @@ public class Test_Operator {
         //Relational Operator
         int f = 14;
         int g = 21;
-        boolean h = f>=g;
+        boolean h = f >= g;
         System.out.println("Relational Operator : ");
         System.out.println(h);
         System.out.println("\n");
@@ -58,7 +58,7 @@ public class Test_Operator {
         System.out.println("Logical Operator");
         System.out.println(!a3);
         boolean a4 = false;
-        System.out.println(!!a4);
+        System.out.println(!a4);
         boolean a5 = true || false;
         System.out.println("\n");
 
