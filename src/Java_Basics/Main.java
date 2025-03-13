@@ -1,4 +1,4 @@
-package com.automationtesting;
+package Java_Basics;
 
 public class Main{
 
