@@ -1,3 +1,5 @@
+package Operators;
+
 public class Different_OperatorType {
     public static void main(String[] args) {
 
