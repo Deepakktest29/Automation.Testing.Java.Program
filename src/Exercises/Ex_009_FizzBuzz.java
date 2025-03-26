@@ -2,27 +2,28 @@ package Exercises;
 
 public class Ex_009_FizzBuzz {
 
-    public static void main(String[] args) {
+        public static void main(String[] args) {
 
-        for(int i=1; i <= 100; i++) {
+            for(int i=1; i <= 100; i++) {
 
-            if (i%3 == 0 && i%5 == 0) {
+                if (i%3 == 0 && i%5 == 0) {
 
-                System.out.println("FizzBuzz");
+                    System.out.println("FizzBuzz");
 
-            } else if (i%3 == 0) {
+                } else if (i%3 == 0) {
 
-                System.out.println("Fizz");
-            } else if (i%5 == 0) {
+                    System.out.println("Fizz");
+                } else if (i%5 == 0) {
 
-                System.out.println("Buzz");
+                    System.out.println("Buzz");
 
-            } else {
+                } else {
 
-                System.out.println(i);
+                    System.out.println(i);
 
+                }
             }
-        }
 
-    }
+        }
 }
+
